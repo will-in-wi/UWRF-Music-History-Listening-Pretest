@@ -1,0 +1,120 @@
+#main {
+  min-height: 500px;
+  padding: 10px;
+  
+  background-color: white;
+  border: 1px solid #CC9E61;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  font-family: "Georgia";
+  line-height: 1.5em;
+}
+
+#header, #main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 750px;
+}
+
+#header {
+  margin-bottom: 20px;
+  padding: 10px;
+  
+  font-family: "Verdana";
+  font-size: 40px;
+  color: #14100A;
+}
+
+#header > div {
+  font-size: 25px;
+}
+
+body {
+  margin-top: 0;
+  background-color: #F0F0F0;
+}
+
+#choices a, .start , .test{
+  text-decoration: none;
+  color: #332818;
+  display: block;
+  border: 1px solid #E6CFB1;
+  margin-bottom: 8px;
+  padding: 5px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+}
+
+#choices h2 {
+  border-bottom: 1px solid;
+  color: #664F31;
+  padding-bottom: 3px;
+}
+
+#choices a:hover, .start:hover, .test:hover {
+  background-color: #F2E7D7;
+}
+
+#choices li {
+  display: block;
+  -moz-break-inside: avoid-column;
+}
+
+#choices ul {
+  list-style-type: none;
+  padding-left: 0;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+}
+
+.test {
+  width: 491px;
+  text-align: center;
+}
+
+.answer {
+  background-repeat: no-repeat;
+  height: 270px;
+  padding-left: 280px;
+}
+
+.correct {
+  background-image: url("../images/happy.png");
+}
+
+.incorrect {
+  background-image: url("../images/sad.png");
+}
+
+.start {
+  display: block;
+  margin-top: 10px;
+  width: 100px;
+  text-align: center;
+}
+
+#progressbar {
+  margin-top: 20px;
+}
+
+.letter-grade {
+  float: left;
+  font-size: 200px;
+  height: 270px;
+  line-height: 200px;
+  padding-left: 10px;
+  padding-right: 20px;
+  width: 270px;
+  text-align: center;
+}
+
+.result {
+  padding-left: 300px;
+}
+
+#desc {
+  width: 471px;
+}

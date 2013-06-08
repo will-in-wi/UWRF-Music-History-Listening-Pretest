@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<tests>
+  <test title="Music History I Test 1" id="history1test1">
+    <path>music/history1test1</path>
+    <work>
+      <id>1-01 Epitaph of Seikilos</id>
+      <title>Epitaph of Seikilos</title>
+    </work>
+    <work>
+      <id>1-18 Hildegard of Bingen, Ordo virtutum_ In principio omnes</id>
+      <title>Hildegard of Bingen - Ordo virtutum</title>
+    </work>
+    <work>
+      <id>02 Mass for Christmas Day - Kyrie</id>
+      <title>Gregorian Chant - Kyrie from Mass for Christmas Day</title>
+    </work>
+    <work>
+      <id>03 Organum_ Alleluia Justus ut palma</id>
+      <title>Organum - Alleluia justus</title>
+    </work><work>
+      <id>04 Adam de la Halle _ Jeu de Robin et Marion - Rondeau_ Robin maime</id>
+      <title>Halle - Jeu de Robin</title>
+    </work><work>
+      <id>05 Leonin _ Organum duplum_ Alleluia pascha nostrum - Soli</id>
+      <title>Leonin - Alleluia pascha nostrum</title>
+    </work><work>
+      <id>06 Perotinus _ Organum quadruplum_ Sederunt - Se..</id>
+      <title>Perotinus - Sederunt</title>
+    </work><work>
+      <id>10 Machaut _ Rondeau_ Rose, liz, printemps, verdure</id>
+      <title>Machaut - "Rose, liz"</title>
+    </work>
+    <work>
+      <id>15 Quam pulchra es</id>
+      <title>Dunstable - Quam pulchra es</title>
+    </work>
+    <work>
+      <id>Josquin _ Motet</id>
+      <title>Josquin - De profundis</title>
+    </work>
+    <work>
+      <id>Landini _ Ballata</id>
+      <title>Landini - Ballata</title>
+    </work>
+    <work>
+      <id>Missa Se La Face Ay Pale_ Gloria</id>
+      <title>Dufay - Missa Se La Face...</title>
+    </work>
+    <work>
+      <id>Philippe de Vitry, In arboris_Tuba sacre fidei_Virgo sum</id>
+      <title>Philippe de Vitry - In arboris</title>
+    </work>
+  </test>
+  <test title="Music History I Test 2" id="history1test2">
+    <path>music/history1test2</path>
+    <work>
+      <id>Girolamo Frescobaldi (1583-1643) - Toccata No. 3</id>
+      <title>Frescobaldi - Toccata No. 3</title>
+    </work>
+    <work>
+      <id>Palestrina Pope Marcellus Mass- Credo</id>
+      <title>Palestrina - Credo from Pope Marcellus Mass</title>
+    </work>
+    <work>
+      <id>01 - Claudio Monteverdi (1567-1643) - LOrfeo- Prologue- Dal mio Permesso</id>
+      <title>Claudio Monteverdi - L'Orfeo: Prologue</title>
+    </work>
+    <work>
+      <id>02 - Claudio Monteverdi (1567-1643) - LOrfeo- Act II- Vi ricorda; and In un fiorito prato</id>
+      <title>Claudio Monteverdi - L'Orfeo: Tu se morta</title>
+    </work>
+    <work>
+      <id>Carlo Gesualdo (1566-1613) - Madrigal- Io parto e non piu dissi</id>
+      <title>Carlo Gesualdo - Madrigal: Io parto</title>
+    </work>
+    <work>
+      <id>Claude Le Jeune (1528-1600) - Chanson- Revecy venir du printans</id>
+      <title>Claude Le Jeune - Chanson: Revecy venir du printans</title>
+    </work>
+    <work>
+      <id>Claudin de Sermisy (early 1500s) - Chanson- Tant que vivray</id>
+      <title>Claudin de Sermisy - Chanson: Tant que vivray</title>
+    </work>
+    <work>
+      <id>Giovanni Gabrieli (1554-1612) - Grand Concerto- In ecclesiis</id>
+      <title>Giovanni Gabrieli - In ecclesiis</title>
+    </work>
+    <work>
+      <id>Heinrich Schutz (1585-1672) - Grand Concerto- Saul, was verfolgst du mich, SWV 415</id>
+      <title>Heinrich Schutz - Saul, was verfolgst du mich</title>
+    </work>
+    <work>
+      <id>Jacopo Peri (1561-1633) - Le musiche sopra lEuridice- Prologue, Tragedy- Io, che dalti sospir</id>
+      <title>Jacopo Peri - Prologue from l'Euridice</title>
+    </work>
+    <work>
+      <id>Johann Froberger - Lamentation</id>
+      <title>Johann Froberger - Lamentation</title>
+    </work>
+    <work>
+      <id>John Downland (1563-1626) - Air- Flow, my tears</id>
+      <title>John Downland - Flow my tears</title>
+    </work>
+    <work>
+      <id>Thomas Weelkes (1576-1623) - Madrigal- O Care, thou wilt despatch me</id>
+      <title>Thomas Weelkes - Madrigal: O Care, thou wilt despatch me</title>
+    </work>
+    <work>
+      <id>Tomas Luis de Victoria (1548-1611) - O magnum mysterium</id>
+      <title>Tomás Luis de Victoria - Motet: "O magnum mysterium"</title>
+    </work>
+  </test>
+  <test title="Music History I Test 3" id="history1test3">
+    <path>music/history1test3</path>
+    <work>
+      <id>Alessandro_Scarlatti_La_Griselda_Act_II_Scene_I_Mi_rivedi</id>
+      <title>A. Scarlatti - excerpt from La Griselda</title>
+    </work>
+    <work>
+      <id>Vivaldi-1st_mvt</id>
+      <title>Vivaldi - Concerto Grosso In G Minor</title>
+    </work>
+    <work>
+      <id>Corelli_Trio_Sonata_1</id>
+      <title>Corelli - Trio Sonata, Op. 3, No. 2, 1st Mvt</title>
+    </work>
+    <work>
+      <id>Corelli_Trio_Sonata_2</id>
+      <title>Corelli - Trio Sonata, Op. 3, No. 2, 2nd Mvt</title>
+    </work>
+    <work>
+      <id>Dieterich_Buxtehude_Praeludium_in_E_major_BuxWV_141</id>
+      <title>Buxtehude - Praeludium in E major</title>
+    </work>
+    <work>
+      <id>Francois_Couperin_Vingt_cinquieme_order_La_Visionaire</id>
+      <title>Couperin - La Visionaire</title>
+    </work>
+    <work>
+      <id>George_Frideric_Handel_Giulo_Cecare_Act_II_Scene_2</id>
+      <title>Handel - excerpt from Giulo Cecare</title>
+    </work>
+    <work>
+      <id>Giovanni_Legrenzi_Trio_Sonata_La_Raspona</id>
+      <title>Legrenzi - Trio Sonata</title>
+    </work>
+    <work>
+      <id>Henry_Purcell_Dido_and_Aeneas</id>
+      <title>Purcell - excerpt from Dido and Aeneas</title>
+    </work>
+    <work>
+      <id>Jean-Baptiste_de_Lully_Armide_Ouverture</id>
+      <title>Lully - Overture from Armide</title>
+    </work>
+    <work>
+      <id>Jean-Philippe_Rameau_Hippolyte_et_Aricie_Act_IV_Scene_1_Ah_faut-il</id>
+      <title>Rameau - excerpt from Hippolyte et Aricie</title>
+    </work>
+    <work>
+      <id>Johann_Sebastian_Bach_Cantata_Wachet_Auf_mvt_1a</id>
+      <title>Bach - Cantata: Wachet Auf - 1st Mvt.</title>
+    </work>
+    <work>
+      <id>Bach_Cantata_Wachet_Auf_mvt.4</id>
+      <title>Bach - Cantata: Wachet Auf - 4th Mvt.</title>
+    </work>
+    <work>
+      <id>Johann_Sebastian_Bach_Durch_Adams_Fall</id>
+      <title>Bach - Durch Adams Fall</title>
+    </work>
+  </test>
+  <test title="Music History II Test 1" id="history2test1">
+    <path>music/history2test1</path>
+    <work>
+      <id>ah_quanto_son_imbrogliato_io</id>
+      <title>Pergolesi - Excerpt from La serva padrona</title>
+    </work>
+    <work>
+      <id>cleofide_ii_ix</id>
+      <title>Hasse - Excerpt from Cleofide</title>
+    </work>
+    <work>
+      <id>don_giovanni</id>
+      <title>Mozart - Excerpt from Don Giovanni</title>
+    </work>
+    <work>
+      <id>mozart_piano_concerto_no_17_1st_mvt</id>
+      <title>Mozart - Piano Concerto No. 23 in A major, 1st mvt.</title>
+    </work>
+    <work>
+      <id>orfeo_ii_i_excerpt</id>
+      <title>Gluck - Excerpt from Orfeo</title>
+    </work>
+    <work>
+      <id>sinfonia_a_8_no_3_i</id>
+      <title>Stamitz - Sinfonia No. 3</title>
+    </work>
+    <work>
+      <id>sonata_wq_55_4_ii</id>
+      <title>C.P.E. Bach - Sonata in A major, 2nd mvt.</title>
+    </work>
+    <work>
+      <id>string_quartet_op_33_no_2</id>
+      <title>Haydn - String Quartet Op. 33 No. 2, 4th mvt.</title>
+    </work>
+    <work>
+      <id>symphony_no_32_i</id>
+      <title>Samartini - Symphony in F major</title>
+    </work>
+    <work>
+      <id>symphony_no_56_i</id>
+      <title>Haydn - Symphony No. 56, 1st mvt.</title>
+    </work>
+    <work>
+      <id>symphony_no_104_in_d_major_london_iv_finale_vivace</id>
+      <title>Haydn - Symphony No. 104, 4th mvt.</title>
+    </work>
+  </test>
+  <test title="Music History II Test 2" id="history2test2">
+    <path>music/history2test2/</path>
+    <work>
+      <id>Gretchen_Am_Spinnrade_D.118</id>
+      <title>Schubert - Gretchen am Spinnrade</title>
+    </work>
+    <work>
+      <id>No_14_in_C_Op_131_I._Adagio_Ma_Non_Troppo_E_Molto_Espressivo</id>
+      <title>Beethoven - String Quartet Op.131, 1st mvt.</title>
+    </work>
+    <work>
+      <id>Piano_Sonata_8_Pathetique_Grave_Allegro_di_molto_e_con_brio</id>
+      <title>Beethoven - Piano Sonata, Op. 13 "Pathetique", 1st mvt.</title>
+    </work>
+    <work>
+      <id>Piano_Sonata_No.23_in_F_minor_Op.57_Appassionata_1.Allegro_assai</id>
+      <title>Beethoven - Sonata Op.57 "Appassionata", 1st mvt.</title>
+    </work>
+    <work>
+      <id>No_14_in_C_Op_131_II.Allegro_Molto_Vivace</id>
+      <title>Beethoven - String Quartet Op.131, 2nd mvt.</title>
+    </work>
+    <work>
+      <id>Piano_Sonata_8_Pathetique_Adagio_cantabile</id>
+      <title>Beethoven - Piano Sonata, Op. 13 "Pathetique", 2nd mvt.</title>
+    </work>
+    <work>
+      <id>Symphonie_Fantastique_Op.14_IV.Marche_au_supplice</id>
+      <title>Berlioz - Symphonie fantastique, mvt. 4</title>
+    </work>
+    <work>
+      <id>Beethoven_Symphony_3_In_E_Flat_Op.55_Eroica_1.Allegro_Con_Brio</id>
+      <title>Beethoven - Symphony no.3 "Eroica", 1st mvt.</title>
+    </work>
+    <work>
+      <id>Concert_Etude_S_144_No.3_Un_sospiro_Allegro_affetuoso</id>
+      <title>Liszt - Concert etude "Un sospiro"</title>
+    </work>
+    <work>
+      <id>Lieder_Ohne_Worte_Songs_without_words_Op.67_No.4.Presto_In_C_Spinning_Song</id>
+      <title>Mendelssohn - Song without words, Op.67 no.4 "Spinning song"</title>
+    </work>
+    <work>
+      <id>Piano_Sonata_8_Pathetique_Rondo_Allegro</id>
+      <title>Beethoven - Piano Sonata, Op. 13 "Pathetique", 3rd mvt.</title>
+    </work>
+    <work>
+      <id>Nocturne_in_E-flat_Major_Op.9_No.2</id>
+      <title>Chopin - Nocturne in E-flat, Op.9 no.2</title>
+    </work>
+    <work>
+      <id>Dichterliebe_Im_wunderschoenen_Monat_Mai</id>
+      <title>Robert Schumann - Im wunderschoenen Monat Mai</title>
+    </work>
+    <work>
+      <id>Lied_Geheimes_Flustern_hier_und_dort</id>
+      <title>Clara Schumann - Geheimes Flustern hier und dort</title>
+    </work>
+  </test>
+  <test title="Music History II Test 3" id="history2test3">
+    <path>music/history2test3</path>
+    <work>
+      <id>Allegro_Organ_Symphony</id>
+      <title>Allegro from Symphony No. 3 "Organ" - Camille Saint-Saens</title>
+    </work>
+    <work>
+      <id>Bez_solntsa_Okonchen_prazdnyi_shumnyi_den</id>
+      <title>Bez solntsa: Okonchen prazdnyi shumnyi den' - Modest Mussorgsky</title>
+    </work>
+    <work>
+      <id>Brahms_Piano_Quartet</id>
+      <title>Piano Quartet in G minor, Op. 25 - 4. Rondo alla Zingarese: Presto - Brahms</title>
+    </work>
+    <work>
+      <id>Dvorak_Piano_Quintet</id>
+      <title>Piano Quintet In A, Op. 81 - 2. Dumka: Andante Con Moto - Dvořák</title>
+    </work>
+    <work>
+      <id>La_bonne_chanson_No.6</id>
+      <title>La bonne chanson, No. 6, Avant que tu ne t'en ailles - Gabriel Faure</title>
+    </work>
+    <work>
+      <id>Mahler_Kindertotenlieder_1_Nun_will_die_Sonn_so_hell_aufgehn</id>
+      <title>Kindertotenlieder - 1: Nun will die Sonn' so hell aufgehn - Mahler</title>
+    </work>
+    <work>
+      <id>O_Mio_Babbino_Caro_Gianni_Schicchi_A_Room_With_A_View</id>
+      <title>O Mio Babbino Caro (Gianni Schicchi), A Room With A View - Giacomo Puccini</title>
+    </work>
+    <work>
+      <id>Strauss_Vier_letzte_Lieder_Im_Abendrot</id>
+      <title>Vier letzte Lieder: Im Abendrot - Strauss</title>
+    </work>
+    <work>
+      <id>Tristan_Und_Isolde_Prelude_to_Act_1.Langsam_Und_Schmachtend</id>
+      <title>Tristan Und Isolde: Prelude to Act 1. Langsam Und Schmachtend - Wagner</title>
+    </work>
+    <work>
+      <id>Una_voce_poco_fa_The_Barber_of_Seville_Dark_Eyes</id>
+      <title>Una voce poco fa (The Barber of Seville), Dark Eyes - Rossini</title>
+    </work>
+    <work>
+      <id>Wie_lieblich_sind_deine_Wohnungen</id>
+      <title>Wie lieblich sind deine Wohnungen - Brahms</title>
+    </work>
+  </test>
+</tests>
